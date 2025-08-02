@@ -11,7 +11,7 @@
 </ul>
 <h2>Diagrama de archivos</h2>
 <code>
-  Proyecto Final
+  Quora Stock Room
 ├── CapaDatos
 │   ├── Properties
 │   ├── References
