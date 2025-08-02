@@ -24,4 +24,7 @@ Aplicación para el gestionamiento de un inventario de repuestos para el manteni
 <img width="1040" height="675" alt="image" src="https://github.com/user-attachments/assets/2d7709d8-3304-410d-9f4d-822d28bdadcc" />
 <img width="1025" height="362" alt="image" src="https://github.com/user-attachments/assets/af7dde34-f982-4948-8921-29ccf2937e0e" />
 
+<h2>Retirar un producto</h2>
+<img width="1044" height="673" alt="image" src="https://github.com/user-attachments/assets/18b3ec1c-12aa-46cc-840e-f6040465836e" />
+<img width="647" height="728" alt="image" src="https://github.com/user-attachments/assets/fb4966ec-3a57-490e-91e7-352a2e492b3c" />
 
