@@ -10,6 +10,9 @@
   <li>Sql Server</li>
 </ul>
 
+<h2>Diseño inicial del proyecto</h2>
+<img width="1287" height="690" alt="image" src="https://github.com/user-attachments/assets/71309ea2-1ae1-49bb-a4bb-809c5a76e321" />
+
 <h2>Login</h2>
 <img width="628" height="442" alt="image" src="https://github.com/user-attachments/assets/48e0aa6e-5306-48ac-99b1-de8833d037d6" />
 
