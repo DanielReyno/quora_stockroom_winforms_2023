@@ -9,6 +9,38 @@
   <li>WinAppDriver</li>
   <li>Sql Server</li>
 </ul>
+Proyecto Final
+├── CapaDatos
+│   ├── Properties
+│   ├── References
+│   └── Datos.cs
+│
+├── CapaEntidad
+│   ├── Properties
+│   ├── References
+│   └── Entidad.cs
+│
+├── CapaNegocio
+│   ├── Properties
+│   ├── References
+│   └── Negocio.cs
+│
+└── CapaPresentacion
+    ├── Properties
+    ├── References
+    ├── Reportes
+    ├── Resources
+    ├── App.config
+    ├── Campos.cs
+    ├── Despachar.cs
+    ├── Form1.cs
+    ├── Login.cs
+    ├── iconfinder-document03-1622833_121957.ico
+    ├── packages.config
+    ├── Program.cs
+    ├── reportaje.cs
+    └── Reporte.rdlc
+
 
 <h2>Diseño inicial del proyecto</h2>
 <img width="1287" height="690" alt="image" src="https://github.com/user-attachments/assets/71309ea2-1ae1-49bb-a4bb-809c5a76e321" />
