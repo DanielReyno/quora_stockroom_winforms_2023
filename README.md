@@ -9,6 +9,7 @@
   <li>WinAppDriver</li>
   <li>Sql Server</li>
 </ul>
+<h2>Diagrama de archivos</h2>
 <code>
   Proyecto Final
 ├── CapaDatos
