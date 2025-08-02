@@ -1,5 +1,14 @@
 # quora_stockroom_winforms_2023
-Aplicación para el gestionamiento de un inventario de repuestos para el mantenimiento de maquinas industriales.
+<img width="1021" height="537" alt="image" src="https://github.com/user-attachments/assets/2b4b116c-5abd-496f-810e-7d4d45c9100d" />
+<p>Quora Stock Room es un software realizado por el desarrollador Daniel Sebastian Reynoso Feliz con fines de poder gestionar un inventario de productos en una empresa como por ejemplo identificar cuales productos tienen un stock bajo para poder solicitar mas unidades de la mismas y reponerlas en el sistemas, también sirve para poder identificar cuales son los productos que mas se retiran, estas información es valiosa para la toma de decisiones en un futuro. Y por ultimo este programa tiene la facilidad de poder generar un reporte con la cantidad de unidades retiradas de un determinado producto y también especificar cuantos productos quedan de la misma</p>
+
+<h2>Tecnologias utilizadas</h2>
+<ul>
+  <li>C# winforms</li>
+  <li>Visual Studio</li>
+  <li>WinAppDriver</li>
+  <li>Sql Server</li>
+</ul>
 
 <h2>Login</h2>
 <img width="628" height="442" alt="image" src="https://github.com/user-attachments/assets/48e0aa6e-5306-48ac-99b1-de8833d037d6" />
@@ -27,4 +36,8 @@ Aplicación para el gestionamiento de un inventario de repuestos para el manteni
 <h2>Retirar un producto</h2>
 <img width="1044" height="673" alt="image" src="https://github.com/user-attachments/assets/18b3ec1c-12aa-46cc-840e-f6040465836e" />
 <img width="647" height="728" alt="image" src="https://github.com/user-attachments/assets/fb4966ec-3a57-490e-91e7-352a2e492b3c" />
+
+<h2>Resultados Pruebas automatizadas con WinAppDriver</h2>
+<img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/43cf4171-6041-4278-b924-b39e5bfecb46" />
+
 
