@@ -9,7 +9,8 @@
   <li>WinAppDriver</li>
   <li>Sql Server</li>
 </ul>
-Proyecto Final
+<code>
+  Proyecto Final
 ├── CapaDatos
 │   ├── Properties
 │   ├── References
@@ -41,7 +42,7 @@ Proyecto Final
     ├── reportaje.cs
     └── Reporte.rdlc
 
-
+</code>
 <h2>Diseño inicial del proyecto</h2>
 <img width="1287" height="690" alt="image" src="https://github.com/user-attachments/assets/71309ea2-1ae1-49bb-a4bb-809c5a76e321" />
 
